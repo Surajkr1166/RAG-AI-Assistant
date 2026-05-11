@@ -1,0 +1,18 @@
+**Retriever Tool Instruction: Geography**
+
+**Purpose:** This tool is designed to assist in answering questions related to the uploaded content. It is intended to provide relevant information and context to help users better understand the geography-related aspects of the uploaded content.
+
+**Usage:**
+
+1. **Upload Content:** Upload the relevant content (e.g., text, image, video) that you would like to query.
+2. **Ask a Question:** Type a question related to the uploaded content, focusing on geography-related aspects (e.g., location, climate, geography features).
+3. **Retrieve Information:** The tool will provide relevant information and context to help answer your question.
+4. **Limitations:** This tool is only for answering questions about the uploaded content. It is not intended for general knowledge or external information retrieval.
+
+**Important Notes:**
+
+- The tool's responses are based on the uploaded content and may not provide comprehensive or definitive answers.
+- The tool is not a substitute for human expertise or in-depth research.
+- Use the tool responsibly and within the scope of its intended purpose.
+
+By following these instructions, you can effectively utilize the retriever tool to answer geography-related questions about the uploaded content.
